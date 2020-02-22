@@ -4,7 +4,7 @@
 <title>Login</title>
 </head>
 <body>
-  <p> Selamat Datang Omon</p>
+  <h2> Login Aplikasi Smart City</h2>
 
 </body>
 </html>
